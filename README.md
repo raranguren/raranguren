@@ -10,14 +10,16 @@ These are my recent projects:
 | [TourGuide](https://github.com/raranguren/p8_TourGuide) | API REST behind a mobile app for tourists | ![](https://skillicons.dev/icons?i=java,spring&theme=light) |
 | [Mediscreen](https://github.com/raranguren/p9_Mediscreen) | Web app for a clinic, with the backend separated in microservices | ![](https://skillicons.dev/icons?i=java,spring,mysql,mongodb,docker&theme=light) |
 | [PillApp](https://github.com/raranguren/PillApp-api) | API REST behind a mobile app that tracks medicine intakes <br/> ([frontend in Angular by @deguache](https://github.com/degouache/PillApp-web)) | ![](https://skillicons.dev/icons?i=java,spring,mysql&theme=light)
-| [Remplir un cheque](https://github.com/raranguren/remplir-un-cheque) | A library for displaying numbers as French words on any page ([with demo](https://raranguren.github.io/remplir-un-cheque/index-en.html)) | ![](https://skillicons.dev/icons?i=javascript&theme=light) |
+| [Remplir un cheque](https://github.com/raranguren/remplir-un-cheque) | A library for displaying numbers as French words on any page ([demo](https://raranguren.github.io/remplir-un-cheque/index-en.html)) | ![](https://skillicons.dev/icons?i=javascript&theme=light) |
 | [todo-ionic-demo](https://github.com/raranguren/todo-ionic-demo) | A simple to-do list for mobile | ![](https://skillicons.dev/icons?i=typescript,angular,firebase,ionic&theme=light) |
+| - | A conversation engine that converts markdown files to navigable storylets ([demo](https://rabbitz.itch.io/the-ninety-eight)) | ![](https://skillicons.dev/icons?i=cs,unity&theme=light) |
+| [Werewolf calculator](https://github.com/raranguren/wwcalc) | Simple app to calculate teams for a game ([demo](https://raranguren.github.io/wwcalc/)) | ![](https://skillicons.dev/icons?i=typescript,angular&theme=light)
 
 My tech stack:
 - Programming languages: Java, JavaScript, TypeScript, PHP, C#, Swift  
 - Web structure: HTML, CSS, jQuery, Bootstrap, Thymeleaf
-- Frameworks: Unity, Spring Boot, Angular CLI, Ionic, Swift UI
-- Test suites: Junit, Mockito
+- Frameworks: Spring Boot, Angular CLI, Ionic, Swift UI, Unity
+- Test suites: Junit, Mockito, Karma, Jasmine, Jest
 - Databases: MySQL, MongoDB, Firebase
 - Deployment: Docker compose, Gitlab pipelines
 
